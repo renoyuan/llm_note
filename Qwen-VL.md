@@ -40,7 +40,7 @@ https://huggingface.co/Qwen/Qwen-VL-Chat-Int4/discussions
 
 Qwen-VL-Cha 版本 显存占用 21630MiB 
 
-速率 10-20 /页
+速率 10-20s /页
 
 
 
